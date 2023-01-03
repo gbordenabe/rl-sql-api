@@ -1,0 +1,3 @@
+- 1. Run `npm i `
+- 2. Run `sh startDb.sh` (if you are in Windows run `docker-compose -f docker-compose.yml up -d`)
+- 3. Run npm start
